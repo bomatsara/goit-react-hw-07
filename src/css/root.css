@@ -1,0 +1,10 @@
+:root {
+    --color-text: #333333;
+    --color-grey: #CCCCCC;
+    --color-link: #0066CC;
+    --color-link-hover: #003399;
+
+    --rating-medium: #FFCC00;
+    --rating-bad: #FF0000;
+    --rating-good: #009966;
+}

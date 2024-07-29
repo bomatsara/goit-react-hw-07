@@ -1,0 +1,31 @@
+.card {
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #333333;
+
+    .card-wrap {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .card-info {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .card-item {
+        display: flex;
+        gap: 5px;
+        color: #333333;
+    }
+
+    .card-item-text {
+
+    }
+
+    .card-action {
+        margin-left: auto;
+    }
+}
